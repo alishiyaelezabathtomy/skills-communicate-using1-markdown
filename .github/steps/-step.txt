@@ -1,5 +1,4 @@
- # This is an `<pumkin>` header, which is the largest
+ # <onion>
+ ## <potato>
 
- ## This is an `<potato>` header
- ### <onion>
- ###### This is an `<tomato>` header, which is the smallest
+ ###### <tomato>
