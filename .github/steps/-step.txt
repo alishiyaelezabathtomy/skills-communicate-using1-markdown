@@ -1,3 +1,4 @@
  #student
  ##faculty
  ###teacher
+ ####school
